@@ -1,0 +1,27 @@
+.inputfield {
+    width: 100%;
+    font-size: 20px;
+    display: flex;
+    margin: 0 auto;
+    align-content: center;
+    
+}
+
+input {
+    min-width: 100px;
+    box-sizing: border-box;
+    margin: 8px auto;
+    padding: 1px;
+}
+
+.output {
+    display: block;
+    margin: auto;
+    text-align: center;
+    text-justify: auto;
+}
+
+.formborder {
+    border: 3px solid #000;
+    width: max-content;
+}
